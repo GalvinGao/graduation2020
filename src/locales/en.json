@@ -1,0 +1,39 @@
+{
+  "app": {
+    "name": "Kinglee High School",
+    "title": "Graduation 2020",
+    "notice": "Welcome to the Kinglee High School 2020 Graduation! You can access multiple projects presented on the Graduation Ceremony here, share them, or even save them for documentation. Congratulates to our graduates!"
+  },
+  "menu": {
+    "languages": "Language"
+  },
+  "projects": {
+    "album": {
+      "title": "Memories Album",
+      "subtitle": "Using face recognition technology to classify the students' life in school in recent years by different people, alongside supporting new photo upload, photo association query and other functions.",
+      "credits": "Galvin Gao"
+    },
+    "fun": {
+      "title": "Laughs in Kinglee",
+      "subtitle": "The funny and enjoyable moments in Kinglee",
+      "credits": "Wendy Wei"
+    },
+    "mv": {
+      "title": "「Never Say Goodbye」 ver. Kinglee MV",
+      "subtitle": "Performed by Maackia Band (Teddy Liu, Leon Li, Sunny Sun, Victor Zhao, Wendy Wei and others) and other graduates, presenting the MV of Kinglee version of the song \"Never Say Goodbye\".",
+      "credits": "Maackia Band, Michael Meng"
+    },
+    "bye": {
+      "title": "「Bye, Kinglee」",
+      "subtitle": "Everything with Kinglee, is all here now.",
+      "credits": "Michael Meng"
+    },
+    "documentation": {
+      "title": "「Documentation」",
+      "subtitle": "We will always remember /the/ events, /the/ people, and all the surroundings around us...",
+      "credits": "Galvin Gao"
+    }
+  },
+  "credits": "Credits: ",
+  "invalidTime": "To ensure ceremony effect, this item will be available after 6.20 10:00"
+}
